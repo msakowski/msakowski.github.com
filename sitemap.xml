@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://martinsakowski.com/categories/</loc>
+    <loc>http://msakowski.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://martinsakowski.com/</loc>
+    <loc>http://msakowski.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://martinsakowski.com/tags/</loc>
+    <loc>http://msakowski.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
